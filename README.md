@@ -5,3 +5,11 @@
 - Experiments with various Discount Factors and Step Costs
 
 ---
+
+### A Sample Grid World
+
+<p align="center">
+  <img src="https://github.com/sayarghoshroy/Markov-Decision-Process/blob/master/grid/grid_world.png" width="45%">
+</p>
+
+---
